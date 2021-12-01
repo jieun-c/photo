@@ -1,0 +1,27 @@
+{
+  "name": "photo",
+  "version": "1.0.0",
+  "description": "사진관리",
+  "main": "app.js",
+  "scripts": {
+    "test": "hello photo",
+    "start": "nodemon app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jieun-c/photo.git"
+  },
+  "keywords": [
+    "photo",
+    "tidy"
+  ],
+  "author": "jieun",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jieun-c/photo/issues"
+  },
+  "homepage": "https://github.com/jieun-c/photo#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
