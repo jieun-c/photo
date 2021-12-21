@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "사진관리",
   "main": "app.js",
+  "type": "module",
   "scripts": {
     "test": "hello photo",
     "start": "nodemon app"
